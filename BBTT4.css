@@ -1,6 +1,8 @@
 .box{
-    background-color: silver;
+    background-color: black;
     width: 1500px;
+    border: 1px solid silver;
+    border-radius: 10px;
     margin: 10px auto;
 }
 
@@ -17,12 +19,14 @@ div{
     border: 1px solid red;
 }
 h2{
-    background-color: orange;
+    background-color: silver;
     text-align: center;
     font-size: 16px;
     font-style: italic;
-    border: 1px solid orange;
+    border: 1px solid silver;
     margin-bottom: -1px;
+    border-radius: 10px;
+
 }
 p{
     text-align: center;
